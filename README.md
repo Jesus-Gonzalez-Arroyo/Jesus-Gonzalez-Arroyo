@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">Mi nombre es Jesús y soy desarrollador de software, de colombia</p>
+<p align="left">Mi nombre es Jesús, soy analista y desarrollador de software, de colombia</p>
 
 ###
 
@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">Soy un desarrollador de software con más de dos años de experiencia creando y contribuyendo al desarrollo y mantenimiento de todo tipo de aplicaciones, incluyendo sitios web, aplicaciones de escritorio e incluso aplicaciones móviles. Me apasiona mi trabajo, por lo que me esfuerzo por crear soluciones prácticas, rápidas y sencillas. Me gusta aprender, así que siempre que tengo oportunidad, aprendo cosas nuevas y desarrollo proyectos personales o freelance que me ayudan a mejorar como desarrollador.</p>
+<p align="left">Soy un analista y desarrollador de software con más de dos años de experiencia creando y contribuyendo al desarrollo y mantenimiento de todo tipo de aplicaciones, incluyendo sitios web, aplicaciones de escritorio e incluso aplicaciones móviles. Me apasiona mi trabajo, por lo que me esfuerzo por crear soluciones prácticas, rápidas y sencillas. Me gusta aprender, así que siempre que tengo oportunidad, aprendo cosas nuevas y desarrollo proyectos personales o freelance que me ayudan a mejorar como desarrollador.</p>
 
 ###
 
